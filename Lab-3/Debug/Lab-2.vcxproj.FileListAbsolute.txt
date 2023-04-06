@@ -1,0 +1,4 @@
+C:\Users\class\source\repos\Lab-2\Debug\Lab-2.exe
+C:\Users\class\source\repos\Lab-2\Debug\Lab-2.pdb
+C:\Users\idgaf\Desktop\3 курс\2 сем\Микропроцессоры\Лабораторная №2\Lab-2\Debug\Lab-2.exe
+C:\Users\falin\Desktop\Lab-2\Debug\Lab-2.exe
